@@ -212,7 +212,7 @@ http://localhost:5000
 
 # 👨‍💻 Author
 
-**Created by Rayyan**
+**Created by Mohammed Riyyan**
 
 ---
 
