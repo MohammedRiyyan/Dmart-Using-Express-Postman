@@ -1,0 +1,12 @@
+{
+  "name": "dmart-api",
+  "version": "1.0.0",
+  "description": "Simple Express.js REST API that serves sample DMART data (customers, employees, payments, products)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
